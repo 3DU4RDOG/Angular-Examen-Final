@@ -1,0 +1,36 @@
+header {
+    color: white;
+    background-color: #fd0000;
+    padding: 10px;
+    width: 100%;
+}
+div {
+    color: white;
+    background-color: #0400fd; 
+    margin: 0;
+    padding: 0;
+}   
+.container-fluid {
+    color: white;
+    background-color: #00ffea;
+} 
+.navbar-brand {
+    color: black;
+    background-color: #fd0000;
+}
+.nav-item {
+    color: black;
+    background-color: #fd0000;
+}
+.nav-link {
+    color: black;
+    background-color: #fd0000;
+}
+.navbar-nav me-auto {
+    color: black;
+    background-color: #fd0000;
+}
+a {
+    color: black;
+    background-color: #fd0000;
+}

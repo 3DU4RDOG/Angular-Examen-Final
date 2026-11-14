@@ -1,0 +1,11 @@
+.carousel-inner {
+  max-height: 700px;
+  overflow: hidden;
+  
+}
+.carousel-caption d-none d-md-block {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+button {
+  color: white;
+}
